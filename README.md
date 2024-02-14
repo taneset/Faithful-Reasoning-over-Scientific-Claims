@@ -13,11 +13,11 @@ At a high level, it searches for both supporting and opposing arguments (scienti
 </p>
 
 
-In more detail 
+In more detail, the framework has seven steps. In step 1 and 2, we retrieve relevant scientific abstracts for the claim and the anti-claim. In Step 3, we generate claim-specific takeaways from these retrieved abstracts, and prune abstracts with weak takeaways. Step 4 generates a local label and its explanation for each takeaway. In Step 5, local labels are aggregated and weighted based on the label score and article reputation. In Step 6, a detailed summary of the local explanations with respect to the given claim is generated, which we call the global explanation. Finally, in Step 7, we trace back each sentence in the global explanation to sentences in the abstracts to show its attribution.
 
 
 <p align="center">
-         <img width="500" src="reason/PNG/detailwide.png" alt="drawing">
+         <img width="800" src="reason/PNG/detailwide.png" alt="drawing">
 </p>
 ### Using EMMA (Demo video)
 
