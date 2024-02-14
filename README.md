@@ -10,7 +10,9 @@ By distilling information from diverse scientific abstracts and weighing them ba
 <p align="center">
          <img width="800" src="reason/PNG/GPThalex.png" alt="drawing">
 </p>
+
 ### How does it work?
+
 Through multiple stages, the framework enables faithful reasoning over scientific claims by providing a traceable provenance from global explanations to evidence abstracts. It makes inferences in multiple steps to ensure the article's relevance to the given claim. This multistep process provides an explanation and a verdict outcome, which can be traced back to the source document for each sentence included in the explanation.
 <p align="center">
          <img width="500" src="reason/PNG/high.png" alt="drawing">
