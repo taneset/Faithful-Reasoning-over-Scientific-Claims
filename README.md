@@ -26,20 +26,108 @@ In more detail, the framework has seven steps. In step 1 and 2, we retrieve rele
          <img width="1000" src="reason/PNG/detailwide.png" alt="drawing">
 </p>
 
-### Evaluation
+### Deployment for Evaluation
 
-We deployed a demo for evaluation, in the following figure,  you can see one example:
+We deployed a demo for evaluation; in the following figure,  you can see one example:
 
 <p align="center">
          <img width="2000" src="reason/PNG/pg1.png" alt="drawing">
          <img width="2000" src="reason/PNG/pg2.png" alt="drawing">
 </p>
 
-Watch a 2 minutes short video for a demonstration EMMA.
+We used the following 50 claims, some of them taken from existing sources and other created by the language model: 
 
-<iframe width="700px" height="500px" src="https://user-images.githubusercontent.com/22459345/183147600-540e0552-8d8a-482d-acd3-b0230fbe4db2.mp4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+# Claims
 
+This document contains a collection of claims categorized into different themes.
 
+## Table of Contents
+- [Biology](#biology)
+- [Medicine](#medicine)
+- [Nutrition](#nutrition)
+- [Climate](#climate)
+- [COVID-19](#covid-19)
+- [Myths](#myths)
 
-### Try out EMMA!
-Click [`here`](https://allenai-defeasible-explanations-srcvdemo-interactive-jpe7t4.streamlitapp.com/?on_demand=false) to try out EMMA!
+---
+
+## Biology
+
+| Claim                                                                                                                        | Theme   |
+|------------------------------------------------------------------------------------------------------------------------------|---------|
+| Autophagy increases in aged organisms.                                                                                       | Biology |
+| High methylation levels within individual DNA molecules correlates with high nucleosome occupancy across species.            | Biology |
+| Obesity is determined in part by genetic factors.                                                                            | Biology |
+| Satellite cell dysfunction is not a key factor in sarcopenia development.                                                    | Biology |
+
+## Medicine
+
+| Claim                                                                                                                        | Theme   |
+|------------------------------------------------------------------------------------------------------------------------------|---------|
+| Bariatric surgery has a deleterious impact on mental health.                                                                 | Medicine|
+| CHEK2 has a significant role in breast cancer.                                                                               | Medicine|
+| Incidence rates of cervical cancer have increased over time.                                                                 | Medicine|
+| MEK inhibitors are not effective in RAS-driven mouse models of cancer.                                                       | Medicine|
+| Teaching hospitals provide better care than non-teaching hospitals.                                                           | Medicine|
+| The risk of cancer is lower in individuals with a history of heavy alcohol consumption.                                      | Medicine|
+
+## Nutrition
+
+| Claim                                                                                                                        | Theme   |
+|------------------------------------------------------------------------------------------------------------------------------|---------|
+| Beef may cause cancer.                                                                                                       | Nutrition|
+| Carrots may cause cancer.                                                                                                    | Nutrition|
+| Coffee may cause cancer.                                                                                                     | Nutrition|
+| Corn may cause cancer.                                                                                                       | Nutrition|
+| Eggs may cause cancer.                                                                                                       | Nutrition|
+| Flour may cause cancer.                                                                                                      | Nutrition|
+| Ice cream may cause sickness.                                                                                                | Nutrition|
+| Milk may cause cancer.                                                                                                       | Nutrition|
+| Sausages may cause cancer.                                                                                                   | Nutrition|
+| Tea may cause cancer.                                                                                                        | Nutrition|
+
+## Climate
+
+| Claim                                                                                                                        | Theme   |
+|------------------------------------------------------------------------------------------------------------------------------|---------|
+| Antarctic Peninsula is shrinking.                                                                                            | Climate |
+| Burning fossil fuels like coal and oil is the main cause of greenhouse gas emissions.                                        | Climate |
+| Climate change affects tourism.                                                                                              | Climate |
+| Climate change causes economic losses.                                                                                       | Climate |
+| Climate change is causing harm to marine life and ocean ecosystems.                                                           | Climate |
+| Climate change is causing more extreme weather events and sea level rise.                                                     | Climate |
+| Climate change is leading to the loss of glaciers.                                                                           | Climate |
+| Climate change threatens the existence of some island nations.                                                                | Climate |
+| Human activities may cause global warming.                                                                                   | Climate |
+| Humans are responsible for releasing greenhouse gases.                                                                       | Climate |
+
+## COVID-19
+
+| Claim                                                                                                                        | Theme   |
+|------------------------------------------------------------------------------------------------------------------------------|---------|
+| 5G networks contribute to the spread of COVID-19.                                                                            | COVID-19|
+| Covid vaccine lead to infertility.                                                                                           | COVID-19|
+| Covid-19 causes diabetes.                                                                                                    | COVID-19|
+| Covid-19 causes heart attack.                                                                                                | COVID-19|
+| Drinking bleach or disinfectants can cure COVID-19.                                                                          | COVID-19|
+| People with blood type O are more protected against COVID-19.                                                                | COVID-19|
+| The COVID-19 vaccine enters your cells and changes your DNA.                                                                 | COVID-19|
+| Vaccines cause brain strokes.                                                                                                | COVID-19|
+| Vaccines cause autism.                                                                                                       | COVID-19|
+| Young people just experience mild sickness from COVID-19.                                                                     | COVID-19|
+
+## Myths
+
+| Claim                                                                                                                        | Theme   |
+|------------------------------------------------------------------------------------------------------------------------------|---------|
+| Alcohol may cause cancer.                                                                                                    | Myths   |
+| Dairy products are necessary for strong bones.                                                                               | Myths   |
+| Drinking alcohol kills brain cells.                                                                                          | Myths   |
+| Drinking green tea burns fat.                                                                                                | Myths   |
+| Eating carrots can improve your eyesight.                                                                                    | Myths   |
+| Eating spicy foods may cause stomach ulcers.                                                                                 | Myths   |
+| Masturbation is harmful or can cause health problems.                                                                        | Myths   |
+| Sunblock causes cancer.                                                                                                      | Myths   |
+| Sunscreen is not necessary on cloudy days.                                                                                   | Myths   |
+| Using a cell phone may cause brain cancer.                                                                                   | Myths   |
+
