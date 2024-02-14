@@ -1,19 +1,24 @@
-# Faithful-Reasoning-over-Scientific-Claims
-
-## EMMA (*E*thics, *M*orality and beyond: a *M*achine *A*dvisor)
-
-### What is EMMA?
-While many AI models are trained to predict a single, definitive answer for each given query, in real life, we often encounter dilemmas and many situations where there are no black or white answers. We introduce, EMMA, a machine advisor that goes beyond such one-dimensional decisons and uncovers answers and perpectives incl. the underlying belief network of a model in complex situations.
 
 
-### How does EMMA work?
+## Faithful-Reasoning-over-Scientific-Claims
+
+### What is Faithful-Reasoning-over-Scientific-Claims?
+Faithful reasoning over claims involves ensuring that the process of verifying scientific statements is accurate and reliable by incorporating relevant knowledge from existing literature. This approach aims to address challenges such as misinformation by considering multiple perspectives and implicit assumptions in scientific claims. By distilling information from diverse scientific abstracts and weighing them based on factors like reputation and citation count, this method enhances the ability to trace evidence back to its original sources and provides a more comprehensive understanding of complex topics, thus enabling more informed decision-making in scientific domains.
+
+
+### How does it work?
+At a high level, it searches for both supporting and opposing arguments (scientific papers) for a given claim. Then, it makes inferences in multiple steps to ensure the relevance of the article to the given claim. Through this multistep process, it provides an explanation and a verdict outcome, which can be traced back to the source document for each sentence included in the explanation.
 <p align="center">
          <img width="500" src="reason/PNG/high.png" alt="drawing">
 </p>
 
 
-EMMA materializes the beliefs of the model for an input statement, uncovering different assumptions and perspectives. It then builds a network of beliefs, and that structure is critiqued using self-feedback (such as structural consistency, self-beliefs) and human feedback (such as thumbs down). Together with this critique, the network of beliefs is then improved using maxsat based reasoning to generate the most consistent belief network as output. [Read more about EMMA](https://drive.google.com/file/d/1UmV5Y9b68mdADAnUdW6nNSFVZ4END9Bs/view?usp=sharing)
+In more detail 
 
+
+<p align="center">
+         <img width="500" src="reason/PNG/detailwide.png" alt="drawing">
+</p>
 ### Using EMMA (Demo video)
 
 Watch a 2 minutes short video for a demonstration EMMA.
