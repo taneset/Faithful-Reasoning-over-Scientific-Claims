@@ -31,7 +31,7 @@ In more detail, the framework has seven steps. In step 1 and 2, we retrieve rele
 We deployed a demo for evaluation, in the following figure,  you can see one example:
 
 <p align="center">
-         <img width="1500" src="reason/PNG/pg1.png" alt="drawing">
+         <img width="2000" src="reason/PNG/pg1.png" alt="drawing">
 </p>
 
 Watch a 2 minutes short video for a demonstration EMMA.
