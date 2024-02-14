@@ -7,7 +7,7 @@ Faithful reasoning over claims involves ensuring that the process of verifying s
 
 
 ### How does it work?
-At a high level, it searches for both supporting and opposing arguments (scientific papers) for a given claim. Then, it makes inferences in multiple steps to ensure the relevance of the article to the given claim. Through this multistep process, it provides an explanation and a verdict outcome, which can be traced back to the source document for each sentence included in the explanation.
+Through multiple stages, the framework enables faithful reasoning over scientific claims by providing a traceable provenance from global explanations to evidence abstracts. It makes inferences in multiple steps to ensure the article's relevance to the given claim. This multistep process provides an explanation and a verdict outcome, which can be traced back to the source document for each sentence included in the explanation.
 <p align="center">
          <img width="500" src="reason/PNG/high.png" alt="drawing">
 </p>
