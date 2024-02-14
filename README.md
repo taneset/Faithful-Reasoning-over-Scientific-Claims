@@ -17,7 +17,7 @@ In more detail, the framework has seven steps. In step 1 and 2, we retrieve rele
 
 
 <p align="center">
-         <img width="800" src="reason/PNG/detailwide.png" alt="drawing">
+         <img width="1000" src="reason/PNG/detailwide.png" alt="drawing">
 </p>
 ### Using EMMA (Demo video)
 
