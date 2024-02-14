@@ -7,10 +7,9 @@ While many AI models are trained to predict a single, definitive answer for each
 
 
 ### How does EMMA work?
-<div style="text-align: center;">
-         <img width="400" src="reason/PNG/high.png" alt="drawing">
-</div>
-
+<p align="center">
+         <img width="500" src="reason/PNG/high.png" alt="drawing">
+</p>
 
 
 EMMA materializes the beliefs of the model for an input statement, uncovering different assumptions and perspectives. It then builds a network of beliefs, and that structure is critiqued using self-feedback (such as structural consistency, self-beliefs) and human feedback (such as thumbs down). Together with this critique, the network of beliefs is then improved using maxsat based reasoning to generate the most consistent belief network as output. [Read more about EMMA](https://drive.google.com/file/d/1UmV5Y9b68mdADAnUdW6nNSFVZ4END9Bs/view?usp=sharing)
