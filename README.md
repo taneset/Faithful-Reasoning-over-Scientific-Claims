@@ -32,6 +32,7 @@ We deployed a demo for evaluation, in the following figure,  you can see one exa
 
 <p align="center">
          <img width="2000" src="reason/PNG/pg1.png" alt="drawing">
+         <img width="2000" src="reason/PNG/pg2.png" alt="drawing">
 </p>
 
 Watch a 2 minutes short video for a demonstration EMMA.
