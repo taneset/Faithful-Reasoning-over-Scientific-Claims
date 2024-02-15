@@ -41,9 +41,8 @@ We used the following 50 claims, some of them taken from existing sources and ot
 
 This document contains a collection of claims categorized into different themes.
 
-## Table of Contents
-- [Biology](#biology)
-- [Medicine](#medicine)
+## Samples of Claims per Subject
+- [SciFact](#medicine&biology)
 - [Nutrition](#nutrition)
 - [Climate](#climate)
 - [COVID-19](#covid-19)
@@ -51,25 +50,20 @@ This document contains a collection of claims categorized into different themes.
 
 ---
 
-## Biology
+## SciFact
 
 | Claim                                                                                                                        | Theme   |
 |------------------------------------------------------------------------------------------------------------------------------|---------|
-| Autophagy increases in aged organisms.                                                                                       | Biology |
-| High methylation levels within individual DNA molecules correlates with high nucleosome occupancy across species.            | Biology |
-| Obesity is determined in part by genetic factors.                                                                            | Biology |
-| Satellite cell dysfunction is not a key factor in sarcopenia development.                                                    | Biology |
+| Autophagy increases in aged organisms.                                                                                       | SciFact |
+| Bariatric surgery has a deleterious impact on mental health.                                                                 | SciFact |                                                                | Biology |
+| High methylation levels within individual DNA molecules correlate with high nucleosome occupancy across species.             | SciFact |
+| Incidence rates of cervical cancer have increased over time.                                                                 | SciFact |
+| MEK inhibitors are not effective in RAS-driven mouse models of cancer.                                                       | SciFact |
+| Obesity is determined in part by genetic factors.                                                                            | SciFact |
+| Satellite cell dysfunction is not a key factor in sarcopenia development.                                                    | SciFact |
+| Teaching hospitals provide better care than non-teaching hospitals                                                           | SciFact |
+| The risk of cancer is lower in individuals with a history of heavy alcohol consumption                                       | SciFact |
 
-## Medicine
-
-| Claim                                                                                                                        | Theme   |
-|------------------------------------------------------------------------------------------------------------------------------|---------|
-| Bariatric surgery has a deleterious impact on mental health.                                                                 | Medicine|
-| CHEK2 has a significant role in breast cancer.                                                                               | Medicine|
-| Incidence rates of cervical cancer have increased over time.                                                                 | Medicine|
-| MEK inhibitors are not effective in RAS-driven mouse models of cancer.                                                       | Medicine|
-| Teaching hospitals provide better care than non-teaching hospitals.                                                           | Medicine|
-| The risk of cancer is lower in individuals with a history of heavy alcohol consumption.                                      | Medicine|
 
 ## Nutrition
 
@@ -94,10 +88,10 @@ This document contains a collection of claims categorized into different themes.
 | Burning fossil fuels like coal and oil is the main cause of greenhouse gas emissions.                                        | Climate |
 | Climate change affects tourism.                                                                                              | Climate |
 | Climate change causes economic losses.                                                                                       | Climate |
-| Climate change is causing harm to marine life and ocean ecosystems.                                                           | Climate |
-| Climate change is causing more extreme weather events and sea level rise.                                                     | Climate |
+| Climate change is causing harm to marine life and ocean ecosystems.                                                          | Climate |
+| Climate change is causing more extreme weather events and sea level rise.                                                    | Climate |
 | Climate change is leading to the loss of glaciers.                                                                           | Climate |
-| Climate change threatens the existence of some island nations.                                                                | Climate |
+| Climate change threatens the existence of some island nations.                                                               | Climate |
 | Human activities may cause global warming.                                                                                   | Climate |
 | Humans are responsible for releasing greenhouse gases.                                                                       | Climate |
 
@@ -114,7 +108,7 @@ This document contains a collection of claims categorized into different themes.
 | The COVID-19 vaccine enters your cells and changes your DNA.                                                                 | COVID-19|
 | Vaccines cause brain strokes.                                                                                                | COVID-19|
 | Vaccines cause autism.                                                                                                       | COVID-19|
-| Young people just experience mild sickness from COVID-19.                                                                     | COVID-19|
+| Young people just experience mild sickness from COVID-19.                                                                    | COVID-19|
 
 ## Myths
 
