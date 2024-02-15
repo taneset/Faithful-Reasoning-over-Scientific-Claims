@@ -104,7 +104,7 @@ We used the following 50 claims, some of them taken from existing sources (SciFa
 | Vaccines cause brain strokes.                                                                                                | COVID-19|
 | Vaccines cause autism.                                                                                                       | COVID-19|
 | Young people just experience mild sickness from COVID-19.                                                                    | COVID-19|
-
+---
 ## Myths
 
 | Claim                                                                                                                        | Theme   |
