@@ -35,9 +35,8 @@ We deployed a demo for evaluation; in the following figure,  you can see one exa
          <img width="2000" src="reason/PNG/pg2.png" alt="drawing">
 </p>
 
-We used the following 50 claims, some of them taken from existing sources and other created by the language model: 
-
-# Samples of Claims per Subject
+## Samples of Claims per Subject
+We used the following 50 claims, some of them taken from existing sources (SciFact&Nutritiens), and others were created by the language model(GPT3.5): 
 - [SciFact](#medicine&biology)
 - [Nutrition](#nutrition)
 - [Climate](#climate)
