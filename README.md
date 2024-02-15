@@ -58,7 +58,7 @@ We used the following 50 claims, some of them taken from existing sources (SciFa
 | Satellite cell dysfunction is not a key factor in sarcopenia development.                                                    | SciFact |
 | Teaching hospitals provide better care than non-teaching hospitals                                                           | SciFact |
 | The risk of cancer is lower in individuals with a history of heavy alcohol consumption                                       | SciFact |
-
+---
 
 ## Nutrition
 
@@ -74,7 +74,7 @@ We used the following 50 claims, some of them taken from existing sources (SciFa
 | Milk may cause cancer.                                                                                                       | Nutrition|
 | Sausages may cause cancer.                                                                                                   | Nutrition|
 | Tea may cause cancer.                                                                                                        | Nutrition|
-
+---
 ## Climate
 
 | Claim                                                                                                                        | Theme   |
@@ -89,7 +89,7 @@ We used the following 50 claims, some of them taken from existing sources (SciFa
 | Climate change threatens the existence of some island nations.                                                               | Climate |
 | Human activities may cause global warming.                                                                                   | Climate |
 | Humans are responsible for releasing greenhouse gases.                                                                       | Climate |
-
+---
 ## COVID
 
 | Claim                                                                                                                        | Theme   |
@@ -119,4 +119,4 @@ We used the following 50 claims, some of them taken from existing sources (SciFa
 | Sunblock causes cancer.                                                                                                      | Myths   |
 | Sunscreen is not necessary on cloudy days.                                                                                   | Myths   |
 | Using a cell phone may cause brain cancer.                                                                                   | Myths   |
-
+---
