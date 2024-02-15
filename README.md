@@ -37,11 +37,7 @@ We deployed a demo for evaluation; in the following figure,  you can see one exa
 
 We used the following 50 claims, some of them taken from existing sources and other created by the language model: 
 
-# Claims
-
-This document contains a collection of claims categorized into different themes.
-
-## Samples of Claims per Subject
+# Samples of Claims per Subject
 - [SciFact](#medicine&biology)
 - [Nutrition](#nutrition)
 - [Climate](#climate)
