@@ -50,7 +50,7 @@ We used the following 50 claims, some of them taken from existing sources (SciFa
 | Claim                                                                                                                        | Theme   |
 |------------------------------------------------------------------------------------------------------------------------------|---------|
 | Autophagy increases in aged organisms.                                                                                       | SciFact |
-| Bariatric surgery has a deleterious impact on mental health.                                                                 | SciFact |                                                                | Biology |
+| Bariatric surgery has a deleterious impact on mental health.                                                                 | SciFact |                                                              
 | High methylation levels within individual DNA molecules correlate with high nucleosome occupancy across species.             | SciFact |
 | Incidence rates of cervical cancer have increased over time.                                                                 | SciFact |
 | MEK inhibitors are not effective in RAS-driven mouse models of cancer.                                                       | SciFact |
