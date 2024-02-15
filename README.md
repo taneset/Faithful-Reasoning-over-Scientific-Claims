@@ -90,7 +90,7 @@ We used the following 50 claims, some of them taken from existing sources (SciFa
 | Human activities may cause global warming.                                                                                   | Climate |
 | Humans are responsible for releasing greenhouse gases.                                                                       | Climate |
 
-## COVID-19
+## COVID
 
 | Claim                                                                                                                        | Theme   |
 |------------------------------------------------------------------------------------------------------------------------------|---------|
