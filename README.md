@@ -40,7 +40,7 @@ We used the following 50 claims, some of them taken from existing sources (SciFa
 - [SciFact](#medicine&biology)
 - [Nutrition](#nutrition)
 - [Climate](#climate)
-- [COVID-19](#covid-19)
+- [COVID](#covid)
 - [Myths](#myths)
 
 ---
